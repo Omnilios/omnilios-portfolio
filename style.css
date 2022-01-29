@@ -285,7 +285,7 @@ h3 { font-size: var(--fs-h3) }
 .my-sercives{
   background: var(--clr-accent);
   color: #fff;
-  background-image: url(../img/services-bg.jpg);
+  background-image: url(img/services-bg.jpg);
   background-size: cover;
   background-blend-mode: multiply;
   text-align: center;
